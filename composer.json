@@ -1,0 +1,17 @@
+{
+    "name": "baikov/work9",
+    "type": "work9",
+    "autoload": {
+        "psr-4": {
+            "Baikov\\Work9\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivan"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
