@@ -1,10 +1,10 @@
 <?php
 
-namespace Baikov\Work9;
+namespace danila\Work9;
 require 'vendor/autoload.php';
-use Baikov\Work9\BankAccount;
-use Baikov\Work9\InvalidAmountException;
-use Baikov\Work9\InsufficientFundsException;
+use danila\Work9\BankAccount;
+use danila\Work9\InvalidAmountException;
+use danila\Work9\InsufficientFundsException;
 function main() {
     try {
         $account = new BankAccount(100.0);
