@@ -1,14 +1,14 @@
 {
-    "name": "baikov/work9",
+    "name": "danila/work9",
     "type": "work9",
     "autoload": {
         "psr-4": {
-            "Baikov\\Work9\\": "src/"
+            "danila\\Work9\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "ivan"
+            "name": "danila"
         }
     ],
     "require-dev": {
