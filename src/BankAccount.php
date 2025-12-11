@@ -1,6 +1,6 @@
 <?php
 
-namespace Baikov\Work9;
+namespace danila\Work9;
 
 use Exception;
 
